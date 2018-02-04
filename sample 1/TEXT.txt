@@ -1,0 +1,19 @@
+<speak>
+<emphasis level="moderate">Hello, <prosody volume="soft" rate="x-slow">this is Majid Ashraf.</prosody> and,</emphasis>
+<prosody rate="x-slow">I am  <break time="300ms"/> Hasan Idress .</prosody>
+<prosody rate="x-slow" volume="soft">
+I am sorry, to inform you. that the items you requested
+<say-as interpret-as="Apology" >
+   I am sorry, to inform you. that the items you requested,  are back-ordered  We apologize for the inconvenience.</say-as>
+</prosody>
+</speak>
+
+
+  <prosody volume="x-loud"> This is extra loud volume. </prosody>
+  <prosody rate="slow"> This is slow speech. </prosody>
+
+
+<emphasis level="strong">This is an important announcement, you are using STRONG </emphasis>
+<emphasis level="none">This is an important announcement , you are using none</emphasis>
+<emphasis level="moderate">Hello this is Michael Sealy and I am Jason Stevenson
+</emphasis>
